@@ -1,0 +1,6 @@
+customtkinter
+tkcalendar
+psycopg2
+pytz
+CtkMessageBox
+pyinstaller
